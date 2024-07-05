@@ -1,16 +1,11 @@
 # whmcs微信支付插件
-WHMCS微信H5支付插件同时支持PC端和手机端支付。用户使用手机端支付账单直接拉起微信APP支付，PC端操作会弹出二维码，用户使用微信APP扫码即可完成支付。
-使用说明
+WHMCS微信H5支付插件同时支持PC端和手机端支付
+注：用户在使用手机端支付时会拉起微信进行支付，但是域名需要备案
+    PC端操作会弹出二维码，使用微信APP扫码即可完成支付。
+### 使用说明
 需要在商户平台开通以下接口：
 - H5支付
 - Native支付
-
-### 安装说明
-
-* [商户证书获取教程](https://pay.weixin.qq.com/wiki/doc/apiv3_partner/open/pay/chapter2_6_1.shtml)
-* [支付平台证书获取教程](https://pay.weixin.qq.com/wiki/doc/apiv3_partner/apis/wechatpay5_1.shtml)
-
-参考以上教程获取证书后上传到attachments/certificate目录。
 
 
 ### 功能说明
