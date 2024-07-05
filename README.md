@@ -12,12 +12,6 @@ WHMCS微信H5支付插件同时支持PC端和手机端支付。用户使用手�
 
 参考以上教程获取证书后上传到attachments/certificate目录。
 
-### 引用资源
-
-* [sweetalert.min.js](https://sweetalert.js.org/)(MIT License)
-* [官方SDK](https://github.com/wechatpay-apiv3/wechatpay-php)
-* [phpqrcode](http://phpqrcode.sourceforge.net)(LGPL-2.1 license)
-* [微信支付LOGO](https://pay.weixin.qq.com/static/material/brand.shtml)
 
 ### 功能说明
 - PC端使用微信APP扫码支付；
