@@ -24,7 +24,8 @@ WHMCS微信H5支付插件同时支持PC端和手机端支付。用户使用手�
 - 手机端直接拉起微信APP支付；
 - 支持WHMCS操作退款原路返还；
 
-  联系微信:
+### 联系方式:
 ```
-  helpsmi
+  Wx: helpsmi
+  Tg: @emeuis
 ```
